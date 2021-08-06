@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/mtbroker/filter@sha256:c3fcf096439ef7cd438b97f44e0318ca6d94b73c47953de768c92de584dbcd3c
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/mtbroker/filter@sha256:0a7038418865483d561b76434f6fef28081705adb57abd88e47017f4c6defdc9
